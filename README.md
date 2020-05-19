@@ -36,6 +36,7 @@ Demonstration version shows cases of searching an element where:
 2.	we have many nodes in hashTable bucket
 3.	we do not have a node in hashTable
 
+Results
 1.	First case  
 ![not_found](https://github.com/daw934/hashTable-implementation/blob/master/screens/file2.jpg)
 2.	Second case  
