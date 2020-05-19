@@ -29,7 +29,7 @@ The program was written in java language. It was made up with following classes:
 Demonstration version consist of two phases, putting elements to hashtable and retrieving elements from hashtable.
 #### Initialization phase:
 We initialize hashtable by adding 4 people to it.
- ![not_found](https://github.com/daw934/hashTable-implementation/tree/master/screens/file1.jpg)  
+![not_found](https://github.com/daw934/hashTable-implementation/blob/master/screens/file1.jpg)  
 #### Searching phase
 Demonstration version shows cases of searching an element where:
 1.	we have only a one node in hashTable bucket
@@ -37,10 +37,10 @@ Demonstration version shows cases of searching an element where:
 3.	we do not have a node in hashTable
 
 1.	First case  
-![not_found](https://github.com/daw934/hashTable-implementation/tree/master/screens/file2.jpg)
+![not_found](https://github.com/daw934/hashTable-implementation/blob/master/screens/file2.jpg)
 2.	Second case  
-![not_found](https://github.com/daw934/hashTable-implementation/tree/master/screens/file3.jpg)
+![not_found](https://github.com/daw934/hashTable-implementation/blob/master/screens/file3.jpg)
 3.	Third case  
-![not_found](https://github.com/daw934/hashTable-implementation/tree/master/screens/file5.jpg)
+![not_found](https://github.com/daw934/hashTable-implementation/blob/master/screens/file5.jpg)
 
 
